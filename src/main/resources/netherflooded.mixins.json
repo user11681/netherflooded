@@ -1,0 +1,8 @@
+{
+    "compatibilityLevel": "JAVA_14",
+    "required": true,
+    "package": "user11681.netherflooded",
+    "mixins": [
+        "DimensionTypeMixin"
+    ]
+}

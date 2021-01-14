@@ -1,0 +1,21 @@
+{
+    "schemaVersion": 1,
+    "id": "netherflooded",
+    "version": "${version}",
+
+    "name": "Netherflooded",
+    "description": "a mod that allows water to be used in the nether.",
+    "authors": [
+        "user11681"
+    ],
+    "contact": {
+        "repo": "https://github.com/user11681/netherflooded"
+    },
+
+    "license": "LGPL-3.0",
+    "icon": "assets/netherflooded/icon.png",
+
+    "mixins": [
+        "netherflooded.mixins.json"
+    ]
+}
