@@ -1,5 +1,5 @@
 {
-    "compatibilityLevel": "JAVA_14",
+    "compatibilityLevel": "JAVA_8",
     "required": true,
     "package": "user11681.netherflooded",
     "mixins": [
