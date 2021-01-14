@@ -7,7 +7,7 @@ sourceCompatibility = 8
 targetCompatibility = 8
 
 project.group = "user11681"
-project.version = "0.0.0"
+project.version = "0.0.1"
 
 final String minecraftVersion = "1.16.4"
 final String yarnBuild = "9"
